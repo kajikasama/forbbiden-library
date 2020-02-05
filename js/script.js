@@ -1,12 +1,3 @@
-// const tombol = document.querySelector('.tombolTambahData');
-// tombol.addEventListener('click',function() {
-//   const formModal = document.querySelector('#formModalLabel');
-//   formModal.innerHTML('Tambah Data Mahasiswa');
-
-//   const modalfooter = document.querySelectorAll('.modal-footer button[type=submit]');
-//   modalfooter.innerHTML('Tambah Data');
-
-// })
 $(function() 
 {
   $('.tombolTambahData').on('click', function() {
