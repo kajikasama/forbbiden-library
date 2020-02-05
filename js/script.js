@@ -7,7 +7,6 @@
 //   modalfooter.innerHTML('Tambah Data');
 
 // })
-const 
 $(function() 
 {
   $('.tombolTambahData').on('click', function() {
