@@ -20,5 +20,22 @@ class TamuModel
     $this->db->bind('kode',$kode);
     return $this->db->Single();
   }
-  public function 
+  public function TambahTamu($data)
+  {
+    $query = "INSERT INTO ".$this->tb." VALUES('',':Username',':Password',':KodeRole')";
+    $this->db->query($query);
+
+    $this->db->bind('Username',$data['Username']);
+    $this->db->bind('Password',$data['Password']);
+    $this->db->bind('KodeRole',$data['KodeRole']);
+
+    $this->db->execute();
+    return $this->db->RowCount();
+  }
+  public function UbahTamu($kode)
+  {
+    $query = "UPDATE ".$this->db." SET Username=:Username,Password=:Password,KodeRole=:KodeRole WHERE KodeUser=:Kode";
+    $this->db->query($query);
+    // $this->db->bind(''.$kode['Judul']);
+  }
 }
