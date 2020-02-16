@@ -76,7 +76,7 @@ Programmernya males maklum .. 🙄
 
 <br>
 
-**<h2>Pemilik</h2>**
+<!-- **<h2>Pemilik</h2>**
 
 >![background](img/404.png)
 
@@ -88,13 +88,13 @@ Programmernya males maklum .. 🙄
 
 >![background](img/me.jpg)
 
->[Agus Chandra](https://fb.me/banana.garuda) As **Yukari Yakumo**
+>[Agus Chandra](https://fb.me/banana.garuda) As **Yukari Yakumo** -->
 
 <br>
 
-&nbsp; | &nbsp;
+**<h2>Pemilik</h2>** | <h2>Programmed By </h2> 
 ----|----
-![background](img/404.png) | ![background](img/me.jpg)
+![background](img/404.png) | ![background](img/me.png)
 **Kosuzu Mootori** As Her [Self](https://en.touhouwiki.net/wiki/Kosuzu_Motoori) | [Agus Chandra](https://fb.me/banana.garuda) As **Yukari Yakumo**
 
 Jika Anda Butuh Saya Silahkan Hubungi :
