@@ -95,7 +95,7 @@ Programmernya males maklum .. 🙄
 **<h2>Pemilik</h2>** | <h2>Programmed By </h2> 
 ----|----
 ![background](img/404.png) | ![background](img/me.png)
-**Kosuzu Mootori** As Her [Self](https://en.touhouwiki.net/wiki/Kosuzu_Motoori) | [Agus Chandra](https://fb.me/banana.garuda) As **Yukari Yakumo**
+**Kosuzu Mootori** As Her [Self](https://en.touhouwiki.net/wiki/Kosuzu_Motoori) | [Agus Chandra](https://fb.me/banana.garuda) As [**Yukari Yakumo**](https://en.touhouwiki.net/wiki/Yukari_Yakumo)
 
 Jika Anda Butuh Saya Silahkan Hubungi :
 
