@@ -37,5 +37,9 @@ class TamuModel
     $query = "UPDATE ".$this->db." SET Username=:Username,Password=:Password,KodeRole=:KodeRole WHERE KodeUser=:Kode";
     $this->db->query($query);
     // $this->db->bind(''.$kode['Judul']);
+    public function HapusTamu()
+    {
+      $query = "DELETE * FROM KodeUser";
+    }
   }
 }

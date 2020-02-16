@@ -25,6 +25,8 @@ klo nggak terpaksa make composer buat idle data doang (biar ada aja)
 
 Berisi Awalan Website Pertama kali dibuka (blum isi system login itu menyusul)
 
+Berisi tentang beberapa harapan orang mati yg dulunya tinggal di gensokyo
+
 <hr>
 
 >**Halaman About**
@@ -89,6 +91,11 @@ Programmernya males maklum .. 🙄
 >[Agus Chandra](https://fb.me/banana.garuda) As **Yukari Yakumo**
 
 <br>
+
+&nbsp; | &nbsp;
+----|----
+![background](img/404.png) | ![background](img/me.jpg)
+**Kosuzu Mootori** As Her [Self](https://en.touhouwiki.net/wiki/Kosuzu_Motoori) | [Agus Chandra](https://fb.me/banana.garuda) As **Yukari Yakumo**
 
 Jika Anda Butuh Saya Silahkan Hubungi :
 
